@@ -183,7 +183,7 @@
             MaximizeBox = false;
             Name = "FormMane";
             StartPosition = FormStartPosition.CenterScreen;
-            Text = "Form1";
+            Text = "Спринт 6 | Таск 1 | Вариант 15 | Анищенко В.А.";
             groupBoxTask_AVA.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             groupBoxVar_AVA.ResumeLayout(false);
