@@ -200,6 +200,7 @@
             textBoxRes_AVA.Location = new Point(9, 23);
             textBoxRes_AVA.Multiline = true;
             textBoxRes_AVA.Name = "textBoxRes_AVA";
+            textBoxRes_AVA.ReadOnly = true;
             textBoxRes_AVA.ScrollBars = ScrollBars.Vertical;
             textBoxRes_AVA.Size = new Size(385, 600);
             textBoxRes_AVA.TabIndex = 0;
