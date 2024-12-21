@@ -12,7 +12,7 @@ namespace Tyuiu.AnishchenkoVA.Sprint6.Task3.V4.Lib
             {
                 for (int j = 0; j < cols; j++)
                 {
-                    if (i == 1)
+                    if (i == 1 && matrix[i,j] % 2 == 0)
                     {
                         matrix[i, j] = 0;
                     }
